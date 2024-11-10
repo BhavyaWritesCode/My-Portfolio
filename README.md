@@ -1,4 +1,4 @@
-# 💼 **My Portfolio Website**
+# 💼 My Portfolio Website
 
 Welcome to my portfolio website repository! Here, I showcase my journey in tech, highlighting the projects and skills that define me as a passionate and creative developer. This portfolio is built with a focus on user experience, simplicity, and functionality using HTML, CSS, and JavaScript.
 
